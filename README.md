@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @qdmy
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me: please don't
+- 👀 I’m interested in video understandng and model compression
+- 🌱 I’m currently learning NAS
+- 📫 How to reach me: seqdmy@mail.scut.edu.cn
 
 <!---
 qdmy/qdmy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
