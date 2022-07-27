@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @qdmy
-- 👀 I’m interested in video understandng and model compression
-- 🌱 I’m currently learning NAS
+- 👀 I’m interested in everything in the world.
+- 🌱 I’m currently learning 3D Facial Animation.
+- ✌  My home page at [here](https://qdmy.github.io/)
 - 📫 How to reach me: seqdmy@mail.scut.edu.cn
 
 <!---
